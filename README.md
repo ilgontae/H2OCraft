@@ -1,3 +1,4 @@
-# Hydrocraft
-Hydrocraft for Project Zomboid
-Discord Server: https://discord.gg/hUMsjfApUt
+# H2OCraft
+A Hydrocraft Continued variation.
+
+Hydrocraft Discord Server: https://discord.gg/hUMsjfApUt
